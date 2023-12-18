@@ -1,0 +1,84 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Laptop",
+            "brand": "Dell",
+            "model": "XPS 15",
+            "price": 1499.99,
+            "inStock": true
+        },
+        {
+            "id": 2,
+            "name": "Smartphone",
+            "brand": "Apple",
+            "model": "iPhone 13",
+            "price": 999.99,
+            "inStock": true
+        },
+        {
+            "id": 3,
+            "name": "Headphones",
+            "brand": "Sony",
+            "model": "WH-1000XM4",
+            "price": 349.99,
+            "inStock": false
+        },
+        {
+            "id": 4,
+            "name": "Smartwatch",
+            "brand": "Samsung",
+            "model": "Galaxy Watch 4",
+            "price": 249.99,
+            "inStock": true
+        },
+        {
+            "id": 5,
+            "name": "Tablet",
+            "brand": "Microsoft",
+            "model": "Surface Pro 8",
+            "price": 799.99,
+            "inStock": false
+        },
+        {
+            "id": 6,
+            "name": "Camera",
+            "brand": "Canon",
+            "model": "EOS R5",
+            "price": 3899.99,
+            "inStock": true
+        },
+        {
+            "id": 7,
+            "name": "Printer",
+            "brand": "HP",
+            "model": "LaserJet Pro M15w",
+            "price": 108.99,
+            "inStock": true
+        },
+        {
+            "id": 8,
+            "name": "Router",
+            "brand": "Netgear",
+            "model": "Nighthawk AX12",
+            "price": 399.99,
+            "inStock": false
+        },
+        {
+            "id": 9,
+            "name": "Monitor",
+            "brand": "LG",
+            "model": "UltraFine 5K",
+            "price": 1299.99,
+            "inStock": true
+        },
+        {
+            "id": 10,
+            "name": "Keyboard",
+            "brand": "Logitech",
+            "model": "MX Keys",
+            "price": 99.99,
+            "inStock": false
+        }
+    ]
+}
